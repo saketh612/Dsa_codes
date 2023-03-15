@@ -28,3 +28,5 @@ public:
         
     }
 };
+// for numbers in lexographical order
+//check for lexographical rules
